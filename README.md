@@ -33,3 +33,12 @@ By automating these checks, it reduces manual work, saves time, and improves fin
 2. Install dependencies by running in terminal:  
    ```bash
    pip install -r requirements.txt
+
+## ✅ Example Output
+| order_id           | product_name                         | status                         |  
+|--------------------|--------------------------------------|--------------------------------|  
+| 702-xxxxxx-xxxxxx  | New Era MLB The League 9FORTY Cap    | Needs Reimbursement            |  
+| 701-xxxxxx-xxxxxx  | NIKE Plus Cushion Socks (6-Pair)     | Needs Reimbursement            |  
+| 702-xxxxxx-xxxxxx  | Nike Kids Brasilia Just Do It Bag    | Return or Reimbursement issued |  
+| 701-xxxxxx-xxxxxx  | Nike Everyday Cushion Crew Socks     | Needs Reimbursement            |  
+

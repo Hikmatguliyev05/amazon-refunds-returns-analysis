@@ -24,8 +24,6 @@ By automating these checks, it reduces manual work, saves time, and improves fin
 ## 📂 Files
 - `RefundsandReturns project (1).ipynb` → main analysis notebook  
 - `requirements.txt` → dependencies (Pandas, OpenPyXL)  
-- *(optional)* `data/` → place sample CSVs here if you want to test  
-
 ---
 
 ## 🛠️ How to run
